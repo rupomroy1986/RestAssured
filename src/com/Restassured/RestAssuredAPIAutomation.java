@@ -50,7 +50,7 @@ public class RestAssuredAPIAutomation {
       //for parshing json
       String actualaddress =Js1.getString("address");
       System.out.println(actualaddress);
-      Assert.assertEquals(actualaddress, newAddress);
+     Assert.assertEquals(actualaddress, newAddress);
          
 }
 }
