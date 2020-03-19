@@ -63,7 +63,9 @@ public static void main(String[] args) throws InterruptedException {
 			     					}
 			     		}
 			//solving Json complex queries
-			     		//get the course name for web automation and comparision, for dynamic array, we will go for arraylist
+			     		//get the course name for web automation and comparision, for dynamic array, we will go for arraylist, in run time we can increase the array size.Array is fixed in size whereas arraylist is dynamic.
+			     		//one more 
+			     		
 			     		ArrayList<String> a= new ArrayList<String>();
 			     		List<WebAutomation> w=gc.getCourses().getWebAutomation();
 			     		for(int j=0;j<w.size();j++)
