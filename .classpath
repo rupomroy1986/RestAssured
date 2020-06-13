@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/json-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/json-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/rest-assured-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/rest-assured-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/xml-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/docs/xml-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/json-path-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/docs/json-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/docs/json-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist.zip"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps.zip"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/xml-path-4.2.0-dist/xml-path-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/xml-path-4.2.0-dist/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/xml-path-4.2.0-dist/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/xml-path-4.2.0-dist/docs/xml-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/xml-path-4.2.0-dist/docs/xml-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/spring-mock-mvc-4.2.0-dist/spring-mock-mvc-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/spring-mock-mvc-4.2.0-dist/spring-web-test-client-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/docs/json-schema-validator-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/docs/json-schema-validator-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/scala-support-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/kotlin-extensions-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/groovy-2.5.8.jar" sourcepath="C:/Users/rupom/.m2/repository/org/codehaus/groovy/groovy/2.5.8/groovy-2.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist.zip"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/json-path-4.2.0-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/json-path-4.2.0-deps/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-path-4.2.0-dist/json-path-4.2.0-deps/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-deps/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/json-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/json-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/rest-assured-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/rest-assured-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/xml-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/rest-assured-4.2.0-dist/docs/xml-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps.zip"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/GETTING STARTED WITH REST API TESTING/Rest assured Jars/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0-deps/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/POJO CLASSES/gson-2.8.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/POJO CLASSES/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/POJO CLASSES/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/POJO CLASSES/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/selenium-java-3.141.59 (1)/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/selenium-java-3.141.59 (1)/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/selenium-java-3.141.59 (1)/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/selenium-java-3.141.59 (1)/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/selenium-java-3.141.59 (1)/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/selenium-java-3.141.59 (1)/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/API TESTING/selenium-java-3.141.59 (1)/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/rupom/Desktop/testng-6.14.3 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/rupom/Desktop/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rupom/Desktop/jcommander-1.27.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
