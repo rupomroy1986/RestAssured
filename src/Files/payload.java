@@ -13,7 +13,7 @@ public class payload {
 				"    \"accuracy\":50,\r\n" + 
 				"    \"name\":\"Frontline house\",\r\n" + 
 				"    \"phone_number\":\"(+91) 983 893 3937\",\r\n" + 
-				"    \"address\" : \"29, side layout, cohen 09\",\r\n" + 
+				"    \"address\" : \"29, side layout, zinga lala\",\r\n" + 
 				"    \"types\": [\"shoe park\",\"shop\"],\r\n" + 
 				"    \"website\" : \"https://rahulshettyacademy.com\",\r\n" + 
 				"    \"language\" : \"French-IN\"\r\n" + 

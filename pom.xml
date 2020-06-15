@@ -29,6 +29,15 @@
     <artifactId>poi</artifactId>
     <version>3.17</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.10</version>
+    <scope>test</scope>
+</dependency>
+
   
   </dependencies>
   

@@ -6,6 +6,7 @@
       <class name="com.Restassured.ExcelDriven">
         <methods>
           <include name="addBook"/>
+          <include name="deleteBook"/>
         </methods>
       </class> <!-- com.Restassured.ExcelDriven -->
     </classes>

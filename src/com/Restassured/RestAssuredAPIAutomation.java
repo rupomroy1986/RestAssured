@@ -37,9 +37,7 @@ public class RestAssuredAPIAutomation {
  				"\"place_id\":\""+placeid+"\",\r\n" + 
  				"\"address\":\""+newAddress+"\",\r\n" + 
  				"\"key\":\"qaclick123\"\r\n" + 
- 				"}");
-         
-         when().put("/maps/api/place/update/json")
+ 				"}").when().put("/maps/api/place/update/json")
      
  		.then().assertThat().log().all().statusCode(200).body("msg", equalTo("Address successfully updated"));
          
@@ -49,7 +47,7 @@ public class RestAssuredAPIAutomation {
       //here we have to use other assertion method to do that as it is independent of restassured
       
       JsonPath js1=new JsonPath(getplaceresponse);
-    /*JsonPath Js1  =ReusableMethods.rawToJson(getplaceresponse);*/
+    
       //for parshing json
       String actualaddress =js1.getString("address");
       System.out.println(actualaddress);
